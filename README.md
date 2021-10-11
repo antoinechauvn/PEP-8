@@ -1,20 +1,6 @@
 # PEP-8
 La principale convention de nommage
 
-PEP: 8
-Title: Style Guide for Python Code
-Version: $Revision$
-Last-Modified: $Date$
-Author: Guido van Rossum <guido@python.org>,
-        Barry Warsaw <barry@python.org>,
-        Nick Coghlan <ncoghlan@gmail.com>
-Status: Active
-Type: Process
-Content-Type: text/x-rst
-Created: 05-Jul-2001
-Post-History: 05-Jul-2001, 01-Aug-2013
-
-
 Introduction
 ============
 
@@ -1467,16 +1453,5 @@ Copyright
 =========
 
 This document has been placed in the public domain.
-
-
-
-..
-   Local Variables:
-   mode: indented-text
-   indent-tabs-mode: nil
-   sentence-end-double-space: t
-   fill-column: 70
-   coding: utf-8
-   End:
-
+                   
 ###### Copyright ©2001-2021.  Python Software Foundation
