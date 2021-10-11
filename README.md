@@ -1,5 +1,5 @@
 # PEP-8
-La principale convention de nommage. Elle a pour but de définir des règles de développement globales pour chaque développeurs
+La principale convention de nommage. Elle a pour but de définir des règles de développement globales pour chaque développeurs.
 
 Introduction
 ============
